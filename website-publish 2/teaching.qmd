@@ -1,9 +1,0 @@
----
-title: "Teaching"
----
-
-
-## Courses
-
-I will teach 7017 (Fundamentals of Biostatistics I) in Spring 2027.
-
