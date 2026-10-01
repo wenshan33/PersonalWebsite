@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - teaching.qmd
+  resources:
+    - assets/
+
+website:
+  title: "Wenshan Yu （喻文姗）"
+  description: "Wenshan Yu — Biostatistics, Georgia State University. Data integration, causal inference, and population health."
+  site-url: https://wenshan33.github.io
+  navbar:
+    background: light
+    collapse-below: md
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      #- href: random.qmd
+      #  text: Miscellany
+  page-footer:
+    left: "Wenshan Yu · Biostatistics"
+    right: "Georgia State University"
+  search: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    lang: en
+    anchor-sections: false
+    link-external-newwindow: false
+    smooth-scroll: false
