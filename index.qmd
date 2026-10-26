@@ -52,6 +52,14 @@ I will present two posters at the Gerontological Society of America’s Annual S
 :::
 
 ::: {.news-item}
+[October 2026]{.news-date}
+
+::: {.news-description}
+Our paper, “Mode Effects in Non-Democratic Environments: Evidence from Experiments in MENA,” has been accepted for publication in the International Journal of Public Opinion Research. Many thanks to Dr. Michael Robbins for leading this work!
+:::
+:::
+
+::: {.news-item}
 [August 2026]{.news-date}
 
 ::: {.news-description}
